@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tp1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-common-Debug-0f09a8325f5079fbdb3a.json",
+					"name" : "common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-90412330645e54336dba.json",
+					"name" : "test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tp1_point::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tp1_point-Debug-e8c3249dcc69171c70bd.json",
+					"name" : "tp1_point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tp1_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tp1_test-Debug-1ef07544604f53db3d16.json",
+					"name" : "tp1_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tp1_vecteur::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tp1_vecteur-Debug-652cfb5eb57322a3c885.json",
+					"name" : "tp1_vecteur",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build",
+		"source" : "/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
