@@ -8,8 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/src/cartesien.cpp" "CMakeFiles/common.dir/src/cartesien.cpp.o" "gcc" "CMakeFiles/common.dir/src/cartesien.cpp.o.d"
-  "/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/src/polaire.cpp" "CMakeFiles/common.dir/src/polaire.cpp.o" "gcc" "CMakeFiles/common.dir/src/polaire.cpp.o.d"
+  "/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/cartesien.cpp" "CMakeFiles/common.dir/src/cartesien.cpp.o" "gcc" "CMakeFiles/common.dir/src/cartesien.cpp.o.d"
+  "/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/nuage.cpp" "CMakeFiles/common.dir/src/nuage.cpp.o" "gcc" "CMakeFiles/common.dir/src/nuage.cpp.o.d"
+  "/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/polaire.cpp" "CMakeFiles/common.dir/src/polaire.cpp.o" "gcc" "CMakeFiles/common.dir/src/polaire.cpp.o.d"
   )
 
 # Targets to which this target links.

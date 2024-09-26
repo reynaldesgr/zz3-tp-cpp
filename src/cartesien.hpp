@@ -14,6 +14,8 @@ class Cartesien : public Point {
         Cartesien(): x(0.0), y(0.0){}
         Cartesien(double x, double y): x(x), y(y){}
 
+        Cartesien(const Polaire& p);
+
         double getX() const { return x; }
         double getY() const { return y; }
 
@@ -23,7 +25,7 @@ class Cartesien : public Point {
         void afficher() const override;
         void afficher(std::ostream& stream) const;
 
-        void convertir(Point& p) const override;
-        void convertir(Polaire& p) const;
+        void convertir(Polaire& p) const override;
+        void convertir(Cartesien& c) const override;
 };
 #endif

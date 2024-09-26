@@ -1,7 +1,7 @@
-/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/CMakeFiles/common.dir
-/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/CMakeFiles/test.dir
-/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/CMakeFiles/tp1_point.dir
-/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/CMakeFiles/tp1_vecteur.dir
-/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/CMakeFiles/tp1_test.dir
-/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/CMakeFiles/edit_cache.dir
-/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/CMakeFiles/rebuild_cache.dir
+/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/CMakeFiles/common.dir
+/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/CMakeFiles/test.dir
+/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/CMakeFiles/tp1_point.dir
+/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/CMakeFiles/tp1_vecteur.dir
+/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/CMakeFiles/tp1_test.dir
+/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/CMakeFiles/edit_cache.dir
+/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/CMakeFiles/rebuild_cache.dir

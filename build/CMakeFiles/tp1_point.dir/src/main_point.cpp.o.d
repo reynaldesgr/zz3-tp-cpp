@@ -1,5 +1,5 @@
 CMakeFiles/tp1_point.dir/src/main_point.cpp.o: \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/main_point.cpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/main_point.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/12/cstdlib \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \

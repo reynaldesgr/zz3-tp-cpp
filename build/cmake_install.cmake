@@ -1,4 +1,4 @@
-# Install script for directory: /home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1
+# Install script for directory: /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -12,7 +12,7 @@ if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
     string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
   else()
-    set(CMAKE_INSTALL_CONFIG_NAME "Debug")
+    set(CMAKE_INSTALL_CONFIG_NAME "")
   endif()
   message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
 endif()
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/local.isima.fr/resegerie/shared/COURS - ZZ3/TP-CPP/TP1/tp_1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

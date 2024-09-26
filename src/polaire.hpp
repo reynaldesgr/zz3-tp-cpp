@@ -11,9 +11,11 @@ class Polaire : public Point {
     double dist;
 
     public:
-
+    
         Polaire(): theta(0.0), dist(0.0){}
         Polaire(double t, double r):theta(t), dist(r){}
+    
+        Polaire(const Cartesien& c);
 
         double getAngle() const;
         double getDistance() const;
@@ -24,7 +26,7 @@ class Polaire : public Point {
         void afficher() const override;
         void afficher(std::ostream& stream) const override;
 
-        void convertir(Point& p) const override;
-        void convertir(Cartesien& c) const;
+        void convertir(Cartesien& c) const override;
+        void convertir(Polaire& p) const override;
 };
 #endif

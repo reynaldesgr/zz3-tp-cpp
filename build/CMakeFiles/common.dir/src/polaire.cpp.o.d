@@ -1,5 +1,5 @@
 CMakeFiles/common.dir/src/polaire.cpp.o: \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/polaire.cpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/polaire.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/12/cmath \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -170,7 +170,7 @@ CMakeFiles/common.dir/src/polaire.cpp.o: \
  /usr/include/c++/12/bits/basic_ios.tcc \
  /usr/include/c++/12/bits/ostream.tcc /usr/include/c++/12/istream \
  /usr/include/c++/12/bits/istream.tcc \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/polaire.hpp \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/point.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/polaire.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/point.hpp \
  /usr/include/c++/12/sstream /usr/include/c++/12/bits/sstream.tcc \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/cartesien.hpp
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/cartesien.hpp

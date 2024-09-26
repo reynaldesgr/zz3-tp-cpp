@@ -1,7 +1,7 @@
 CMakeFiles/test.dir/test/catch.cpp.o: \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/test/catch.cpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/test/catch.cpp \
  /usr/include/stdc-predef.h \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/test/catch.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/test/catch.hpp \
  /usr/include/c++/12/cstddef \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \

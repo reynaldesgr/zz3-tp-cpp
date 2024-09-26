@@ -1,0 +1,4 @@
+after clone the repository be sure to do the following :
+>> rm CMakeCache.txt
+>> rm -rf (...)/build/*
+>> cmake ..

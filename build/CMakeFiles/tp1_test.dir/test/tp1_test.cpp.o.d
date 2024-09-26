@@ -1,7 +1,7 @@
 CMakeFiles/tp1_test.dir/test/tp1_test.cpp.o: \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/test/tp1_test.cpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/test/tp1_test.cpp \
  /usr/include/stdc-predef.h \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/test/catch.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/test/catch.hpp \
  /usr/include/c++/12/cstddef \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -216,6 +216,9 @@ CMakeFiles/tp1_test.dir/test/tp1_test.cpp.o: \
  /usr/include/c++/12/pstl/glue_numeric_defs.h /usr/include/c++/12/sstream \
  /usr/include/c++/12/istream /usr/include/c++/12/bits/istream.tcc \
  /usr/include/c++/12/bits/sstream.tcc \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/cartesien.hpp \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/point.hpp \
- /home/local.isima.fr/resegerie/shared/COURS\ -\ ZZ3/TP-CPP/TP1/tp_1/src/polaire.hpp
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/cartesien.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/point.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/polaire.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/nuage.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/polaire.hpp \
+ /home/rsegerie/Bureau/ZZ3/CPP/zz3-tp-cpp/src/cartesien.hpp
