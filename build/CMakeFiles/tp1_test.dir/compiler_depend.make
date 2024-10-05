@@ -274,8 +274,15 @@ CMakeFiles/tp1_test.dir/test/tp1_test.cpp.o: ../test/tp1_test.cpp \
   ../src/polaire.hpp \
   ../src/nuage.hpp \
   ../src/polaire.hpp \
-  ../src/cartesien.hpp
+  ../src/cartesien.hpp \
+  ../src/vector.hpp \
+  ../src/vector_it.hpp \
+  /usr/include/c++/12/iostream
 
+
+../src/vector_it.hpp:
+
+../src/vector.hpp:
 
 ../src/nuage.hpp:
 
@@ -676,6 +683,8 @@ CMakeFiles/tp1_test.dir/test/tp1_test.cpp.o: ../test/tp1_test.cpp \
 /usr/include/asm-generic/errno.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
+
+/usr/include/c++/12/iostream:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 

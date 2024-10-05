@@ -7,6 +7,8 @@
 #include <cartesien.hpp>
 #include <polaire.hpp>
 #include <nuage.hpp>
+#include <vector.hpp>
+#include <vector_it.hpp>
 
 // Tests //-----------------------------------------------------------------------------------------
 
@@ -343,3 +345,54 @@ TEST_CASE ( "TP1_Nuage::BarycentrePolaire" ) {
  REQUIRE ( b.getDistance() == Approx(p.getDistance()) );
 }
 // Fin //-------------------------------------------------------------------------------------------
+
+// Exercice 2
+TEST_CASE("TP1_Vector::Exercice 2", "[vector]"){
+    Vector vtest;
+    vtest.push_back(52);
+    vtest.push_back(63);
+    vtest.push_back(15);
+    vtest.push_back(12);
+
+    Vector v2test(4);
+    v2test[0] = 8;
+    v2test[1] = 45;
+    v2test[2] = 10;
+    v2test[3] = 57;
+
+    SECTION("Addition of two vectors"){
+        Vector res = vtest + v2test;
+        REQUIRE(res.size() == 4);
+        REQUIRE(res[0] == 60);
+        REQUIRE(res[1] == 108);
+        REQUIRE(res[2] == 25);
+        REQUIRE(res[3] == 69);
+    }
+
+    SECTION("Scalar product of two vectors") {
+        int dotProduct = vtest * v2test;
+        REQUIRE(dotProduct == 4085);
+    }
+}
+
+TEST_CASE("VectorIt operator+ works correctly", "[VectorIt]") {
+    
+    SECTION("Adding vectors of the same size") {
+        VectorIt v1(3);  // Create vector of size 3 with initial values [0, 0, 0]
+        v1[0] = 1;
+        v1[1] = 2;
+        v1[2] = 3;
+
+        VectorIt v2(3);  // Create another vector of size 3 with initial values [0, 0, 0]
+        v2[0] = 4;
+        v2[1] = 5;
+        v2[2] = 6;
+
+        VectorIt result = v1 + v2;  // Adding the two vectors
+
+        // Check if the result matches the expected output
+        REQUIRE(result[0] == 5);  // 1 + 4 = 5
+        REQUIRE(result[1] == 7);  // 2 + 5 = 7
+        REQUIRE(result[2] == 9);  // 3 + 6 = 9
+    }
+}

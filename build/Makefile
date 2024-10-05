@@ -301,6 +301,54 @@ src/polaire.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/common.dir/build.make CMakeFiles/common.dir/src/polaire.cpp.s
 .PHONY : src/polaire.cpp.s
 
+src/vector.o: src/vector.cpp.o
+.PHONY : src/vector.o
+
+# target to build an object file
+src/vector.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/common.dir/build.make CMakeFiles/common.dir/src/vector.cpp.o
+.PHONY : src/vector.cpp.o
+
+src/vector.i: src/vector.cpp.i
+.PHONY : src/vector.i
+
+# target to preprocess a source file
+src/vector.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/common.dir/build.make CMakeFiles/common.dir/src/vector.cpp.i
+.PHONY : src/vector.cpp.i
+
+src/vector.s: src/vector.cpp.s
+.PHONY : src/vector.s
+
+# target to generate assembly for a file
+src/vector.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/common.dir/build.make CMakeFiles/common.dir/src/vector.cpp.s
+.PHONY : src/vector.cpp.s
+
+src/vector_it.o: src/vector_it.cpp.o
+.PHONY : src/vector_it.o
+
+# target to build an object file
+src/vector_it.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/common.dir/build.make CMakeFiles/common.dir/src/vector_it.cpp.o
+.PHONY : src/vector_it.cpp.o
+
+src/vector_it.i: src/vector_it.cpp.i
+.PHONY : src/vector_it.i
+
+# target to preprocess a source file
+src/vector_it.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/common.dir/build.make CMakeFiles/common.dir/src/vector_it.cpp.i
+.PHONY : src/vector_it.cpp.i
+
+src/vector_it.s: src/vector_it.cpp.s
+.PHONY : src/vector_it.s
+
+# target to generate assembly for a file
+src/vector_it.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/common.dir/build.make CMakeFiles/common.dir/src/vector_it.cpp.s
+.PHONY : src/vector_it.cpp.s
+
 test/catch.o: test/catch.cpp.o
 .PHONY : test/catch.o
 
@@ -377,6 +425,12 @@ help:
 	@echo "... src/polaire.o"
 	@echo "... src/polaire.i"
 	@echo "... src/polaire.s"
+	@echo "... src/vector.o"
+	@echo "... src/vector.i"
+	@echo "... src/vector.s"
+	@echo "... src/vector_it.o"
+	@echo "... src/vector_it.i"
+	@echo "... src/vector_it.s"
 	@echo "... test/catch.o"
 	@echo "... test/catch.i"
 	@echo "... test/catch.s"

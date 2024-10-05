@@ -5,6 +5,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/common.dir/src/nuage.cpp.o.d"
   "CMakeFiles/common.dir/src/polaire.cpp.o"
   "CMakeFiles/common.dir/src/polaire.cpp.o.d"
+  "CMakeFiles/common.dir/src/vector.cpp.o"
+  "CMakeFiles/common.dir/src/vector.cpp.o.d"
+  "CMakeFiles/common.dir/src/vector_it.cpp.o"
+  "CMakeFiles/common.dir/src/vector_it.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.
